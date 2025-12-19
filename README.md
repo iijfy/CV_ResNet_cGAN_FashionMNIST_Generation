@@ -1,4 +1,4 @@
-🌇 FashionMNIST 조건부 생성(cGAN) 구현 및 개선 실험
+# 🌇 FashionMNIST 조건부 생성(cGAN) 구현 및 개선 실험
 
 ## 📌 프로젝트 개요
 FashionMNIST(10개 클래스)에서 클래스 레이블을 조건으로 이미지를 생성하는 Conditional GAN(cGAN)을 구현하고,
